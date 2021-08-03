@@ -1,0 +1,18 @@
+logging:
+  level:
+    root: ERROR
+    org.springframework.cloud.gateway: WARN
+    org.springframework.cloud.loadbalancer: WARN
+    org.springframework: WARN
+    com.vodafone: DEBUG
+
+databaseVariables:
+  subStatus: A,S
+  primResParamCd: GEONUM,MSISDN
+  packageAttrValue: "%226%"
+  rptaAttrNameGeonumIccid: FILE_NUMBER,IMSI
+  rptaAttrNameFileNumber: FILE_NUMBER
+  rptaAttrNameSimType: SIM_TYPE
+  rptaAttrNameMsisdn: MATCHING_ID,PIN,PIN2,PUK1,PUK2,IMSI
+  rpaAttrValue: SXRESIMGEN
+  msiStatus: 0,3,5

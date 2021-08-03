@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+  datasource:
+    platform: oracle
+    driverClassName: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@db-test:1521/dbuat
+    username: selonly
+    password: readonly
