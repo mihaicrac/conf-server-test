@@ -11,7 +11,7 @@ databaseVariables:
   primResParamCd: GEONUM,MSISDN
   packageAttrValue: "%226%"
   rptaAttrNameGeonumIccid: FILE_NUMBER,IMSI
-  rptaAttrNameFileNumber: FILE_NUMBERXCV
+  rptaAttrNameFileNumber: FILE_NUMBERCCCVB
   rptaAttrNameSimType: SIM_TYPE
   rptaAttrNameMsisdn: MATCHING_ID,PIN,PIN2,PUK1,PUK2,IMSI
   rpaAttrValue: SXRESIMGEN
