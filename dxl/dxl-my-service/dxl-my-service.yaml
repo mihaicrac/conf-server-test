@@ -20,4 +20,5 @@ databaseVariables:
 server.port: 8082
 spring.boot.admin.client.url: http://localhost:8081
 management.endpoints.web.exposure.include: '*'
+management.endpoint.env.post.enabled: true
 management.endpoint.health.show-details: always
